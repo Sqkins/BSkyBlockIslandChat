@@ -14,7 +14,8 @@ public class IslandChatPlugin extends JavaPlugin{
 	
 	public void onEnable() {
 		instance = this;
-		
+		@SuppressWarnings("unused")
+		Metrics metrics = new Metrics(this);
 		getConfig().options().copyDefaults(true);
 		saveDefaultConfig();
 		
