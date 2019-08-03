@@ -1,0 +1,13 @@
+name: IslandChat
+author: Skqins
+version: 1
+main: com.skqins.islandchat.IslandChatPlugin
+description: Punch a chest to sell it
+depend: [BentoBox]
+
+commands:
+  islandchat:
+    useage: /islandchat
+    description: Toggle Island Chat.
+    aliases: [ic]
+    

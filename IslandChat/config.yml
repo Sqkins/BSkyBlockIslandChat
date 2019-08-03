@@ -1,0 +1,12 @@
+# %player% - who sent the message
+# %message% - the entire message they sent
+island-chat-format: '&8&l[&b&lISLAND-CHAT&8&l]&b&l %player%&f&l: %message%'
+# %player% - who sent the message
+# %message% - the entire message they sent
+island-spy-format: '&8&l[&4&lISLAND-SPY&8&l]&4&l %player%&f&l: %message%'
+
+toggle-island-chat-on: '&8&l[&b&lISLAND&8&l] &7Island chat &bon.'
+toggle-island-chat-off: '&8&l[&b&lISLAND&8&l] &7Island chat &boff.'
+
+toggle-island-spy-on: '&8&l[&4&lISLAND-SPY&8&l] &7Island Chat Spying &bon.'
+toggle-island-spy-off: '&8&l[&4&lISLAND-SPY&8&l] &7Island Chat Spying &boff.'
